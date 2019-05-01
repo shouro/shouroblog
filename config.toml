@@ -3,7 +3,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 title = "Muttakinur Rahman Chowdhury"
 theme = "KeepIt"
-publishdir = "public"
+publishdir = "shouro.github.io"
 
 paginate = 10
 enableEmoji = true

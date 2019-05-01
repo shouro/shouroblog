@@ -1,0 +1,4 @@
+[submodule "shouro.github.io"]
+	path = shouro.github.io
+	url = git@github.com:shouro/shouro.github.io.git
+	branch = master
