@@ -48,7 +48,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
     since = 2019
     author = "Muttakinur Rahman Chowdhury"               # Author's name
-    subtitle = "Backend Developer + devops"       # Subtitle
+    subtitle = "Software Developer + DevOps"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
