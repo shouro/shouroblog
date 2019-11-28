@@ -2,3 +2,7 @@
 	path = shouro.github.io
 	url = git@github.com:shouro/shouro.github.io.git
 	branch = master
+
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
