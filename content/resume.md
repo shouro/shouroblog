@@ -7,7 +7,7 @@ Contact: [email](mailto://sourogts@gmail.com)
 
 ## SKILLS
 
-Python, C, Go, Flask, Javascript, Leadership, Code optimization, REST API, DevOps, Microservices, Docker, Jenkins, Ansible, AWS, ELK, Prometheus, Grafana, Consul, Saltstack, Postgresql, Mysql, nginx, scrapy, Git, TDD, Agile.
+Python, C, Go, Javascript, Flask, Django, Leadership, Code optimization, REST API, DevOps, Microservices, Docker, Jenkins, Ansible, AWS, ELK, Prometheus, Grafana, Consul, Saltstack, Postgresql, Mysql, nginx, scrapy, Git, TDD, Agile.
 
 ## EXPERIENCE
 
