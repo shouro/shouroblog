@@ -1,4 +1,4 @@
-baseurl = "https://shouro.github.io"
+baseurl = ""
 title = "Muttakinur"
 
 theme = "hugo-coder"
